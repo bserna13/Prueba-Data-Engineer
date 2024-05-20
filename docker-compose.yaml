@@ -32,7 +32,7 @@ services:
     ports:
       - "5431:5432"
     volumes:
-      - ./pgdata:/var/lib/postgresql/data
+      - /pgdata:/var/lib/postgresql/data
     networks:
       - postgres_net
 
