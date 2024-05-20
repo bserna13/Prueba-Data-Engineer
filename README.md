@@ -45,11 +45,11 @@ Este es el bosquejo del sistema o pipeline que diseñe para el sistema analític
 
 ## Conclusiones técnicas e insights de negocio
 
-###Conclusiones técnicas:
+### Conclusiones técnicas:
 
 El desarrollo de productos de BI es un proceso en el que se deben considerar diversos factores como la reproducibilidad del producto, para que funcione en cualquier instancia donde se aloje, y diseñarlo de forma sencilla y concisa para que el usuario final pueda hacer uso del producto y generar valor agregado para la toma de decisiones. La escalabilidad del producto es también crucial. Por eso, el desarrollo y la programación para llevar a cabo un ETL o ELT, y posteriormente desarrollar un modelo analítico o dashboard, cobran vital importancia en la creación de estos productos.
 
-###Conclusiones de negocio:
+### Conclusiones de negocio:
 
 Al hacer un análisis por portafolio de los clientes, a simple vista se observa una variabilidad de portafolios. Esto se debe a que cada cliente es distinto. Por ejemplo, cuando observamos el tipo de banca, se nota que estas tienen diversidad en los activos y macroactivos de sus portafolios, a diferencia de las empresas y pymes que no tienen tan diversificados sus activos y cuyos macroactivos suelen ser de Renta Variable o FICs.
 
