@@ -55,5 +55,8 @@ Al hacer un análisis por portafolio de los clientes, a simple vista se observa 
 
 Para disminuir el riesgo en inversiones, una estrategia clásica es diversificar el portafolio de inversión, y eso se ve claramente en las visualizaciones. Cuando el riesgo es moderado, los activos son diversos y los macroactivos suelen ser entre variables y FICs. Cuando el riesgo es conservador, generalmente los macroactivos son FICs. En cambio, cuando el riesgo es agresivo y el portafolio de inversión está sujeto a una compañía en específico como activo, lo que puede aumentar la probabilidad estimada de riesgo, los macroactivos suelen ser Renta Variable o FICs.
 
+!['Portafolio Riesgo Moderado'](Diagrama%20y%20Video/riesgo_moderado.png)
+
 Se observa que durante enero de 2024 el ABA tuvo un incremento en comparación con diciembre de 2023. Este incremento se sostuvo moderadamente hasta marzo, donde se nota una pequeña baja. En los primeros días de abril, sube nuevamente al nivel anterior, pero no se mantiene y cae de nuevo. Este indicador es importante porque también refleja la confianza que nuestros clientes depositan en el banco para administrar sus activos. Por ende, se recomendaría realizar un estudio en los meses donde hay valles (marzo y finales de abril) con el fin de mejorar la experiencia de los clientes con el banco y aumentar la eficiencia en el manejo de sus activos.
 
+!['Linea de tiempo del ABA promedio'](Diagrama%20y%20Video/linea_tiempo.png)
