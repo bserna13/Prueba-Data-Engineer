@@ -1,17 +1,14 @@
-# Nombre del Proyecto
+# Prueba técnica talento B - 2024 
 
-Breve descripción del proyecto y su propósito.
+Este proyecto tiene como objetivo desarrollar una herramienta analítica que facilite a los gerentes comerciales de inversión la visualización y el análisis de los portafolios de sus clientes. Dicha herramienta permitirá extraer conocimiento de la información disponible y generar nuevos negocios de inversión de manera más automatizada.
 
 ## Índice
 
 - [Introducción](#introducción)
 - [Instalación](#instalación)
+- [Pipeline del proyecto](#características)
 - [Uso](#uso)
-- [Características](#características)
-- [Tecnologías](#tecnologías)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Conclusiones técnicas e insights de negocio  ](#tecnologías)
 
 ## Introducción
 
