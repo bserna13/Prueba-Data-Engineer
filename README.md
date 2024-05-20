@@ -22,7 +22,7 @@ Para abordar este problema, se ha desarrollado una herramienta analítica que pe
 
 ## Instalación
 
-Se clona el repositorio y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
+Para la instalación se necesita descargar e instalar Docker y PostgreSQL, posteriormente se clona el repositorio y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
 
 ```bash
 # Monta los contenedores que ejecutan el proyecto
