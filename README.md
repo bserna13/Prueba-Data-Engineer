@@ -26,7 +26,12 @@ Para abordar este problema, se ha desarrollado una herramienta analítica que pe
 Se clona el repositorio y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
 
 ```bash
-# Clona el repositorio
+# Monta los contenedores que ejecutan el proyecto
 docker-compose up -d
 ```
-p
+## Pipeline del proyecto
+
+Este es el bosquejo del sistema o pipeline que diseñe para el sistema analítico
+
+![Diagrama del Sistema](Diagrama y Video/diagrama.png)
+
