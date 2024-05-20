@@ -59,6 +59,6 @@ Para disminuir el riesgo en inversiones, una estrategia clásica es diversificar
 
 !['Portafolio Riesgo Moderado'](Diagrama%20y%20Video/riesgo_moderado.png)
 
-Se observa que durante enero de 2024 el ABA tuvo un incremento en comparación con diciembre de 2023. Este incremento se sostuvo moderadamente hasta marzo, donde se nota una pequeña baja. En los primeros días de abril, sube nuevamente al nivel anterior, pero no se mantiene y cae de nuevo. Este indicador es importante porque también refleja la confianza que nuestros clientes depositan en el banco para administrar sus activos. Por ende, se recomendaría realizar un estudio en los meses donde hay valles (marzo y finales de abril) con el fin de mejorar la experiencia de los clientes con el banco y aumentar la eficiencia en el manejo de sus activos.
+Se observa que durante enero de 2024 el ABA tuvo un incremento en comparación con diciembre de 2023. Este incremento se sostuvo moderadamente hasta marzo, donde se nota una pequeña baja. En los primeros días de abril, sube nuevamente similar al nivel anterior, pero no se mantiene y cae de nuevo a mediados de este mes. Este indicador es importante porque también refleja la confianza que nuestros clientes depositan en el banco para administrar sus activos. Por ende, se recomendaría realizar un estudio en los meses donde hay valles (marzo y finales de abril) con el fin de mejorar la experiencia de los clientes con el banco y aumentar la eficiencia en el manejo de sus activos.
 
 !['Linea de tiempo del ABA promedio'](Diagrama%20y%20Video/linea_tiempo.png)
