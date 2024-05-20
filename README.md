@@ -37,7 +37,7 @@ psql -h localhost -p 5431 -U brahian -f prueba.sql prueba
 ```
 posteriormente pedira la contraseña la cual ponen 'pass' sin comillas
 
-y listo, ve al navegador de su preferenca y pongan 'http://localhost:4520/'
+y listo, ve al navegador de su preferenca y pon 'http://localhost:4520/'
 
 ## Pipeline del proyecto
 
