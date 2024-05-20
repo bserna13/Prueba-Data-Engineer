@@ -1,0 +1,46 @@
+version: '3.7'
+
+services:
+  web:
+    restart: always
+    container_name: app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4520:8051"
+    environment:
+      - POSTGRES_HOST=bd
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+    networks:
+      - postgres_net
+
+  db:
+    image: postgres
+    restart: always
+    build:
+      context: .
+    container_name: postgres
+    environment:
+      POSTGRES_USER: brahian
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: prueba
+      pgdata: /var/lib/postgresql/data/pgdata
+    ports:
+      - "5431:5432"
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    networks:
+      - postgres_net
+
+volumes:
+  pgdata: {}
+networks:
+  postgres_net:
+    driver: bridge
+
+
+
