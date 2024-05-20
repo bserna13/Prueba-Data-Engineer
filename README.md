@@ -12,18 +12,21 @@ Este proyecto tiene como objetivo desarrollar una herramienta analítica que fac
 
 ## Introducción
 
-Una descripción más detallada sobre el proyecto, sus objetivos y cualquier contexto relevante. Puedes mencionar problemas que resuelve o mejoras que aporta.
+Los gerentes comerciales de inversión manejan una gran cantidad de clientes, cuya información se encuentra dispersa en diversas fuentes y con códigos poco convencionales. Esto dificulta la extracción de conocimiento y la generación de nuevos negocios de inversión de manera automatizada. 
+
+Para abordar este problema, se ha desarrollado una herramienta analítica que permite visualizar:
+
+- El portafolio de cada cliente y el porcentaje que representa cada macroactivo y activo en el total del portafolio.
+- El portafolio por banca y el porcentaje que representa cada macroactivo.
+- El portafolio por perfil de riesgo y el porcentaje que representa cada macroactivo.
+- La evolución mes a mes del promedio de Activos Bajo Administración (ABA) del total del portafolio, con la opción de seleccionar periodos específicos para el análisis.
 
 ## Instalación
 
-Instrucciones paso a paso sobre cómo instalar y configurar el proyecto. Incluye cualquier requisito previo, como dependencias o software necesario.
+Se clona el repositorio y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/usuario/proyecto.git
-
-# Entra en el directorio del proyecto
-cd proyecto
-
-# Instala las dependencias
-npm install
+docker-compose up -d
+```
+p
