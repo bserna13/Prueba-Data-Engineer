@@ -33,5 +33,5 @@ docker-compose up -d
 
 Este es el bosquejo del sistema o pipeline que diseñe para el sistema analítico
 
-![Diagrama del Sistema](Diagrama y Video/diagrama.png)
+!['Diagrama del Sistema'](Diagrama y Video/diagrama.png)
 
