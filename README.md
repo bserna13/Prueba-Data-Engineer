@@ -22,7 +22,7 @@ Para abordar este problema, se ha desarrollado una herramienta analítica que pe
 
 ## Instalación
 
-Para la instalación se necesita descargar e instalar Docker y PostgreSQL, posteriormente se clona el repositorio y se navega hasta donde está el proyecto, de decir (C:\Users\Brahi\Documents\GitHub\Prueba-Data-Engineer>) en mi caso y se ejecuta la siguiente sentencia de docker.
+Para la instalación se necesita descargar e instalar Docker y PostgreSQL, posteriormente se clona el repositorio y se navega hasta donde está el proyecto, se decir en mi caso (C:\Users\Brahi\Documents\GitHub\Prueba-Data-Engineer>) y se ejecuta la siguiente sentencia de docker.
 
 ```bash
 # Monta los contenedores que ejecutan el proyecto
