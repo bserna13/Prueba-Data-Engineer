@@ -22,20 +22,22 @@ Para abordar este problema, se ha desarrollado una herramienta analítica que pe
 
 ## Instalación
 
-Para la instalación se necesita descargar e instalar Docker y PostgreSQL, posteriormente se clona el repositorio y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
+Para la instalación se necesita descargar e instalar Docker y PostgreSQL, posteriormente se clona el repositorio y se navega hasta donde está el proyecto, de decir (C:\Users\Brahi\Documents\GitHub\Prueba-Data-Engineer>) en mi caso y se ejecuta la siguiente sentencia de docker para montar los contenedores que albergan el proyecto con las respectivas dependencias ya cargadas.
 
 ```bash
 # Monta los contenedores que ejecutan el proyecto
 docker-compose up -d
 ```
 
-Sé que no mencione esto en el video, se hace una pequeña restauración de la base de datos, por lo tanto, para ejecutar el proyecto adicionalmente se navega hasta donde está el proyecto, de decir (C:\Users\Brahi\Documents\GitHub\Prueba-Data-Engineer>) y luego se ejecuta el siguiente comando en la consola:
+Sé que no mencione esto en el video, se hace una pequeña restauración de la base de datos, por lo tanto, para ejecutar el proyecto adicionalmente se ejecuta el siguiente comando en la consola:
 
 ```bash
 # Restaurar datos
 psql -h localhost -p 5431 -U brahian -f prueba.sql prueba
 ```
 posteriormente pedira la contraseña la cual ponen 'pass' sin comillas
+
+y listo, ve al navegador de su preferenca y pongan 'http://localhost:4520/'
 
 ## Pipeline del proyecto
 
