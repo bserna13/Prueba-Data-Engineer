@@ -13,6 +13,8 @@ COPY requerimientos.txt .
 # Instala las dependencias
 RUN pip install --no-cache-dir -r requerimientos.txt
 
+#RUN psql -h db -U brahian -f prueba.sql prueba
+
 # Copia el resto de la aplicación
 COPY . .
 
