@@ -1,4 +1,4 @@
-# Prueba técnica talento B - 2024 
+# Prueba talento B - 2024 
 
 Este proyecto tiene como objetivo desarrollar una herramienta analítica que facilite a los gerentes comerciales de inversión la visualización y el análisis de los portafolios de sus clientes. Dicha herramienta permitirá extraer conocimiento de la información disponible y generar nuevos negocios de inversión de manera más automatizada.
 
